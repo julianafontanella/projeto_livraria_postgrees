@@ -1,1 +1,1 @@
-# Projeto Livraria
+# Projeto Livraria - Database Integration
